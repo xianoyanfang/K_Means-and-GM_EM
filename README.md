@@ -1,5 +1,5 @@
 # K_EM
-python sklearn模块有聚类这一块的函数，在这里利用聚类的算法原理手动实现一遍 O_O <br>
+python sklearn模块有聚类这一块的函数，在这里利用聚类的算法原理手动实现一遍 （老子要开干啦╭(╯3╰)╮) <br>
 ## k_EM.py
 k_EM.py 里面包含k均值聚类函数k_EM(x,K,times,e)，返回值是y,k_x<br>
 * x 要训练的数据<br>
