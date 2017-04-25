@@ -1,4 +1,5 @@
 # K_EM
+python sklearn模块有聚类这一块的函数，在这里利用聚类的算法原理手动实现一遍 O_O <br>
 ## k_EM.py
 k_EM.py 里面包含k均值聚类函数k_EM(x,K,times,e)，返回值是y,k_x<br>
 * x 要训练的数据<br>
@@ -7,6 +8,7 @@ k_EM.py 里面包含k均值聚类函数k_EM(x,K,times,e)，返回值是y,k_x<br>
 * e 聚类的误差小于 e 则退出循环<br>
 ## get_MNIST.py
 获取 mnist 手写数字<br>
+数据集可以在 LSC 文件夹中获取
 ## mnist_k_em.py
 对手写数字 mnist 进行10均值聚类，结果正确率为 accuary = 0.20079999999999998<br>
 ## k_EM_img.py
