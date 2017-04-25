@@ -19,3 +19,4 @@ k_EM.py 里面包含k均值聚类函数k_EM(x,K,times,e)，返回值是y,k_x<br>
 这里实现了mnist手写数字10分类<br>
 图片聚类<br>
 老忠实数据2聚类<br>
+# GM_EM
